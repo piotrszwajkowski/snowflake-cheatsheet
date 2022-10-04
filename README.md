@@ -1,2 +1,6 @@
 # snowflake-cheatsheet
-Useful commands &amp; queries for Snowflake data analysis
+
+This repository contains useful information in data analysis using Snowflake
+
+The document was created using https://www.latex-project.org/
+
